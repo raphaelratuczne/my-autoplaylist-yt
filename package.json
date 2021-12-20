@@ -1,0 +1,20 @@
+{
+  "name": "my-autoplaylist-yt",
+  "version": "1.0.0",
+  "description": "Um script para gerar a minha playlist diaria de youtube",
+  "main": "index.js",
+  "scripts": {
+    "run": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelratuczne/my-autoplaylist-yt.git"
+  },
+  "author": "Raphael Ratuczne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelratuczne/my-autoplaylist-yt/issues"
+  },
+  "homepage": "https://github.com/raphaelratuczne/my-autoplaylist-yt#readme"
+}
